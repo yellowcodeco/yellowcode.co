@@ -1,4 +1,4 @@
-# YellowCode.Co
+# yellowcode.co
 
 Main website for https://yellowcode.co.
 
