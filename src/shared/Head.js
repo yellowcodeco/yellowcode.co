@@ -8,7 +8,7 @@ export default () =>
             <title>yellowcode</title>
             <meta name="title" cont ent="yellowcode — Software + Digital Marketing" />
             <meta name="description" content="Work with us to build your next application, manage your social media marketing, and learn from our industry resources." />
-            <link rel="icon" href="/yellowcodefavicon.ico"> 
+            <link rel="icon" href="/yellowcodefavicon.ico" /> 
 
             {/* <!-- Favicons --> */}
             <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
