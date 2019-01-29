@@ -27,3 +27,11 @@ yarn install
 ```bash
 yarn start
 ```
+
+## Deployment
+
+This will commit the latest code to the branch `gh-pages`
+
+```bash
+yarn run deploy
+```
