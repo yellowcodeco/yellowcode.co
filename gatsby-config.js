@@ -1,6 +1,7 @@
 module.exports = {
     pathPrefix: "/",
     plugins: [
+        `gatsby-plugin-react-helmet`,
         {
           resolve: `gatsby-plugin-google-analytics`,
           options: {
