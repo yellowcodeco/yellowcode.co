@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: "/",
+    pathPrefix: "http://yellowcode.co/",
     plugins: [
         {
           resolve: `gatsby-plugin-google-analytics`,
