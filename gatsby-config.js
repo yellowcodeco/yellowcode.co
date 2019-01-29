@@ -1,5 +1,4 @@
 module.exports = {
-    pathPrefix: "/",
     plugins: [
         `gatsby-plugin-react-helmet`,
         {
