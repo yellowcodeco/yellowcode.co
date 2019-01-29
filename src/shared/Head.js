@@ -8,6 +8,7 @@ export default () =>
             <title>yellowcode</title>
             <meta name="title" cont ent="yellowcode — Software + Digital Marketing" />
             <meta name="description" content="Work with us to build your next application, manage your social media marketing, and learn from our industry resources." />
+            <link rel="icon" href="/yellowcodefavicon.ico"> 
 
             {/* <!-- Favicons --> */}
             <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
@@ -36,13 +37,13 @@ export default () =>
             <meta property="og:url" content="https://yellowcode.co/" />
             <meta property="og:title" content="yellowcode — Software + Digital Marketing" />
             <meta property="og:description" content="Work with us to build your next application, manage your social media marketing, and learn from our industry resources." />
-            <meta property="og:image" content="/img/yellowcode.co_facebook.png" />
+            <meta property="og:image" content="http://yellowcode.co/img/yellowcode.co_facebook.png" />
 
             {/* <!-- Twitter --> */}
             <meta property="twitter:card" content="Software + Digital Marketing" />
             <meta property="twitter:url" content="https://yellowcode.co/" />
             <meta property="twitter:title" content="yellowcode — Software + Digital Marketing" />
             <meta property="twitter:description" content="Work with us to build your next application, manage your social media marketing, and learn from our industry resources." />
-            <meta property="twitter:image" content="/img/yellowcode.co_twitter.png" />
+            <meta property="twitter:image" content="http://yellowcode.co/img/yellowcode.co_twitter.png" />
         </Helmet>
     </React.Fragment>
