@@ -12,6 +12,10 @@ body {
     font-style: normal;
 }
 
+a {
+    color: #333;
+}
+
 a:hover {
     text-decoration: none;
 }
@@ -125,8 +129,6 @@ h2 {
 
 h2 svg {
     display: inline;
-    width: auto;
-    height: 30px;
 }
 
 h2 svg path {
@@ -235,7 +237,6 @@ CONTENT - BOTTOM
 @media (min-width: 768px) {
     .content .bottom a {
         display: inline;
-    width: auto;
         text-align: left;
     }
 
